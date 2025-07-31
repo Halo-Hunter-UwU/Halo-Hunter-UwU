@@ -21,7 +21,7 @@ Here are a few projects I'm particularly proud of that showcase my skills in **U
 
 ## 🌐 Explore More Projects
 
-You can find all my other public repositories and contributions in my [GitHub Repositories Tab](https://github.com/Halo-Hunter-UwU?tab=repositories). Feel free to browse through my work on **UI/UX design, embedded systems, and front-end development.** *(Adjust these areas to best fit your other projects)*
+You can find all my other public repositories and contributions in my [GitHub Repositories Tab](https://github.com/Halo-Hunter-UwU?tab=repositories). Feel free to browse through my work on **UI/UX design, embedded systems, and front-end development.*
 
 ---
 
@@ -35,5 +35,3 @@ You can find all my other public repositories and contributions in my [GitHub Re
 ## 📫 Let's Connect!
 
 * Email: [devendrakurrewar2903@gmail.com](mailto:devendrakurrewar2903@gmail.com)
-* [Your LinkedIn Profile (Optional)](https://www.linkedin.com/in/yourprofile/)
-* [Your Portfolio Website (Optional)](https://www.yourportfolio.com)

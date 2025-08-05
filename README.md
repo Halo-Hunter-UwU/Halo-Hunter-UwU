@@ -1,4 +1,4 @@
-# Hi there, I'm Halo-Hunter-UwU ! 👋
+# Hi there, I'm Halo-Hunter-UwU! 👋
 
 Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** and **Front-end Developer** exploring **responsive design** and **full-stack applications**.
 
@@ -6,41 +6,48 @@ Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** and **Front-en
 
 ## ✨ Featured Projects
 
-Here are a few projects I'm particularly proud of that showcase my skills in **UI/UX Design, Front-end Development**, and **API Integration**.
+Here are a few projects that showcase my skills in **UI/UX Design**, **Front-end Development**, and **interactive prototyping**.
 
-### 1. Responsive Chat System Design (Figma)
+### 1. Interactive UI Animation (Figma)
 
-* **Description:** A UI design for a chat application, focusing on fluid responsiveness across various screen sizes.
-* **Key Features:** Automatic message arrangement, device-friendly layout, clear user distinction.
-* **Technologies:** Figma
-* **Live Prototype:** [View Prototype Here](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
-  
-* **Repository:** This project is a UI design; its code implementation would be in a separate repository if developed.
+* **Description:** A high-fidelity interactive UI animation that replicates smooth transitions and real-time feedback in a chat-like interface.
+* **Key Features:**
+  - Smart animated transitions between message states
+  - Timed delays to simulate conversation flow
+  - Fluid auto-layout setup for responsiveness
+* **Tools Used:** Figma (Prototype + Auto Layout + Smart Animate)
 
-* ### 2. Responsive Chat System Design (Figma)
+> This project demonstrates my ability to build realistic UI behavior and motion flow entirely within design tools, ideal for prototyping user experiences without any code.
 
-* **Description:** A UI design for a chat application, focusing on fluid responsiveness across various screen sizes.
-* **Key Features:** Automatic message arrangement, device-friendly layout, clear user distinction.
-* **Technologies:** Figma
-* **Live Prototype:** [View Prototype Here](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
-  
-* **Repository:** This project is a UI design; its code implementation would be in a separate repository if developed.
+---
+
+### 2. Responsive Chat System Design (Figma)
+
+* **Description:** A user interface design for a chat application, built to adapt seamlessly across different screen sizes.
+* **Key Features:**
+  - Automatic message arrangement
+  - Device-friendly and flexible layout
+  - Clear user distinction and visual hierarchy
+* **Tools Used:** Figma
+
+> Focused on responsive layouts and usability, this project highlights design systems that scale smoothly across devices.
 
 ---
 
 ## 🌐 Explore More Projects
 
-You can find all my other public repositories and contributions in my [GitHub Repositories Tab](https://github.com/Halo-Hunter-UwU?tab=repositories). Feel free to browse through my work on **UI/UX design, embedded systems, and front-end development.*
+Browse more of my work on **UI/UX design**, **embedded systems**, and **front-end development** in the [Repositories tab](https://github.com/Halo-Hunter-UwU?tab=repositories).
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-* Learning **Microcontroller coding and implementation**
-* Building a **Hand gesture controlled Drone**
+* Learning **microcontroller coding and implementation**
+* Building **responsive front-end components** for web interfaces
 
 ---
 
 ## 📫 Let's Connect!
 
 * Email: [devendrakurrewar2903@gmail.com](mailto:devendrakurrewar2903@gmail.com)
+

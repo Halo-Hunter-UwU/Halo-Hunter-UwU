@@ -13,7 +13,7 @@ Here are a few projects I'm particularly proud of that showcase my skills in **U
 * **Description:** A UI design for a chat application, focusing on fluid responsiveness across various screen sizes.
 * **Key Features:** Automatic message arrangement, device-friendly layout, clear user distinction.
 * **Technologies:** Figma
-* **Live Prototype:** [View Prototype Here]([https://www.figma.com/design/2vNh2xX95Cifj6ev-1](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
+* **Live Prototype:** [View Prototype Here](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
   
 * **Repository:** This project is a UI design; its code implementation would be in a separate repository if developed.
 
@@ -22,7 +22,7 @@ Here are a few projects I'm particularly proud of that showcase my skills in **U
 * **Description:** A UI design for a chat application, focusing on fluid responsiveness across various screen sizes.
 * **Key Features:** Automatic message arrangement, device-friendly layout, clear user distinction.
 * **Technologies:** Figma
-* **Live Prototype:** [View Prototype Here]([https://www.figma.com/design/2vNh2xX95Cifj6ev-1](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
+* **Live Prototype:** [View Prototype Here](https://www.figma.com/design/2vNh2xXOh3AOgR6vM7gYV4/CHAT-System?node-id=1-195&t=TFFxK2X95Kifj6ev-1))
   
 * **Repository:** This project is a UI design; its code implementation would be in a separate repository if developed.
 
